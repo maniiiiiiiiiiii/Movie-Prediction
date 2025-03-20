@@ -1,4 +1,3 @@
-
 #  Movie Rating Prediction   
 
 ## **Project Overview**  
