@@ -38,6 +38,33 @@ The dataset used for training and testing can be downloaded from:
 
 ---
 
+1️⃣ Environment Setup
+Before running the project, ensure you have the following:
+
+* Python (3.7 or later)
+* Jupyter Notebook or any Python IDE (VS Code, PyCharm, Google Colab, etc.)
+
+2️⃣ Dependencies (Required Libraries)
+
+Install the necessary Python libraries using pip:
+
+pip install pandas numpy scikit-learn matplotlib seaborn joblib
+
+🔹 List of Required Libraries & Usage
+
+pandas       -	Data manipulation and preprocessing
+
+numpy        -	Numerical computations
+
+scikit-learn -	Machine learning models and preprocessing
+
+matplotlib   -	Data visualization
+
+seaborn      - Statistical data visualization
+
+
+---
+
 ## **Approach**  
 1. **Data Collection & Exploration**  
    - Load and analyze dataset structure.  
@@ -169,10 +196,9 @@ Ensure you have the following installed:
 ```
 📂 movie-rating-prediction  
 │── 📄 README.md  # This Report  
-│── 📄 movie_rating_prediction.py  # Main Python Script  
+│── 📄 Movie Prediction.ipynb  # Main Python Script  
 │── 📄 requirements.txt  # Dependencies  
 │── 📄 imdb_india_movies.csv  # Dataset (or link in README)  
-│── 📄 movie_rating_predictor.pkl  # Trained Model  
 ```
 
 ---
